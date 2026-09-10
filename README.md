@@ -1,0 +1,1 @@
+This is my first web development project—a personal portfolio created using HTML and CSS. I built it to practise semantic HTML, page navigation, CSS styling, images and videos, project cards, lists, forms, and contact sections. The website introduces me, displays my current skills and projects, and provides links to my GitHub and LinkedIn profiles.
