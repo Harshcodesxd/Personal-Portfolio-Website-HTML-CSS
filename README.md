@@ -1,2 +1,1 @@
-# Personal-Portfolio-Website-HTML-CSS
-My first personal portfolio website, built from scratch using HTML and CSS. It includes an About section, projects, skills, an introduction video, contact details, and a message form.
+This is my first web development project—a personal portfolio created using HTML and CSS. I built it to practise semantic HTML, page navigation, CSS styling, images and videos, project cards, lists, forms, and contact sections. The website introduces me, displays my current skills and projects, and provides links to my GitHub and LinkedIn profiles.
